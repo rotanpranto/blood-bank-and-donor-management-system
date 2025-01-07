@@ -3,4 +3,4 @@ A blood bank and donor management system is a web based technology , which enabl
 
 The main purpose of blood bank and donor management system is to give the user as much as accessibility to the users so that they can easily get or donate or buy blood for their need. It will help the user with a user  friendly experience , so they do not need to search blindly or some user want to donate blood but they think it is a hassel to register or don’t where to donate blood , this is the main purpose of this management system so that they can do all the things with ease.
 
-### Tools
+
